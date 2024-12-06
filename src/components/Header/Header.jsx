@@ -25,7 +25,7 @@ const Header = () => {
                 </div>
                 <div>
                     <h1 className="size-16">Front-End Developer</h1>
-                    {blackBtn("Projects", "project-btn")}
+                    {blackBtn("Projects")}
                 </div>
             </div>
         </>
